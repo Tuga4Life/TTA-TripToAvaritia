@@ -1,0 +1,21 @@
+{
+	title: "Stellar Alloy Ingot",
+	x: 3.5d,
+	y: 3.5d,
+	dependencies: [
+		"886663f8"
+	],
+	tasks: [{
+		uid: "4e0cecc5",
+		type: "item",
+		items: [{
+			item: "enderio:item_alloy_endergy_ingot 1 3"
+		}],
+		count: 24L
+	}],
+	rewards: [{
+		uid: "3f787a09",
+		type: "xp",
+		xp: 10
+	}]
+}

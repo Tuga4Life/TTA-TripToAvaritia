@@ -1,0 +1,21 @@
+{
+	x: -15.5d,
+	y: 1.0d,
+	dependencies: [
+		"e9354ecd"
+	],
+	optional: true,
+	tasks: [{
+		uid: "8f87b624",
+		type: "item",
+		items: [{
+			item: "enderio:item_power_conduit 1 1"
+		}],
+		count: 8L
+	}],
+	rewards: [{
+		uid: "b44cc9ac",
+		type: "xp",
+		xp: 10
+	}]
+}

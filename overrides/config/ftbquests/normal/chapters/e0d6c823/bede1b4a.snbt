@@ -1,0 +1,50 @@
+{
+	title: "Endest Armor",
+	x: 5.5d,
+	y: 2.5d,
+	dependencies: [
+		"23869b7f",
+		"09ca2cb0"
+	],
+	tasks: [{
+		uid: "59c60815",
+		type: "item",
+		items: [{
+			item: "enderio:item_end_steel_helmet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "44a973b0",
+		type: "item",
+		items: [{
+			item: "enderio:item_end_steel_chestplate"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "930a60fd",
+		type: "item",
+		items: [{
+			item: "enderio:item_end_steel_leggings"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "38750deb",
+		type: "item",
+		items: [{
+			item: "enderio:item_end_steel_boots"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "ca4bbaac",
+		type: "xp",
+		xp: 10
+	}]
+}

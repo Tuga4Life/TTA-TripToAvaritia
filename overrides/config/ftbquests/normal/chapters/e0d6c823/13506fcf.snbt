@@ -1,0 +1,19 @@
+{
+	x: 1.5d,
+	y: 0.0d,
+	dependencies: [
+		"fc5d2507"
+	],
+	tasks: [{
+		uid: "e32af90b",
+		type: "item",
+		items: [{
+			item: "enderio:block_soul_binder"
+		}]
+	}],
+	rewards: [{
+		uid: "9f338fa0",
+		type: "xp",
+		xp: 10
+	}]
+}

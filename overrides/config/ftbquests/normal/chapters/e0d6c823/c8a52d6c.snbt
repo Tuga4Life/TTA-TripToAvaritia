@@ -1,0 +1,49 @@
+{
+	title: "Dark Armor",
+	x: 4.5d,
+	y: 1.5d,
+	dependencies: [
+		"6e78caa4"
+	],
+	tasks: [{
+		uid: "013d7139",
+		type: "item",
+		items: [{
+			item: "enderio:item_dark_steel_helmet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "964b3cd5",
+		type: "item",
+		items: [{
+			item: "enderio:item_dark_steel_chestplate"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "e6378cb7",
+		type: "item",
+		items: [{
+			item: "enderio:item_dark_steel_leggings"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "7a6b17e2",
+		type: "item",
+		items: [{
+			item: "enderio:item_dark_steel_boots"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "c474661d",
+		type: "xp",
+		xp: 10
+	}]
+}
