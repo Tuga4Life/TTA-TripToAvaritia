@@ -1,0 +1,31 @@
+{
+	x: 8.0d,
+	y: -9.5d,
+	dependencies: [
+		"54947dac",
+		"3ea591d3"
+	],
+	tasks: [{
+		uid: "99ae3b5f",
+		type: "item",
+		items: [{
+			id: "roost:chicken",
+			tag: {
+				Growth: 1,
+				Chicken: "chickens:diamondchicken",
+				Gain: 1,
+				Strength: 1
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "dee17cf0",
+		type: "item",
+		item: "travelersbackpack:travelers_backpack 1 7"
+	},
+	{
+		uid: "c734004a",
+		type: "xp",
+		xp: 10
+	}]
+}

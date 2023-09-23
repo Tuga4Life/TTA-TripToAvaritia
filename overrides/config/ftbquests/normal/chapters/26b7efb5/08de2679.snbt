@@ -1,0 +1,96 @@
+{
+	title: "Overworld",
+	x: 2.5d,
+	y: 7.5d,
+	dependencies: [
+		"34f72ad1"
+	],
+	tasks: [{
+		uid: "eee3e4e3",
+		type: "item",
+		items: [{
+			id: "roost:chicken",
+			tag: {
+				Growth: 1,
+				Chicken: "chickens:whitechicken",
+				Gain: 1,
+				Strength: 1
+			}
+		}]
+	},
+	{
+		uid: "30862ca3",
+		type: "item",
+		items: [{
+			id: "roost:chicken",
+			tag: {
+				Growth: 1,
+				Chicken: "chickens:sandchicken",
+				Gain: 1,
+				Strength: 1
+			}
+		}]
+	},
+	{
+		uid: "e4da6c79",
+		type: "item",
+		items: [{
+			id: "roost:chicken",
+			tag: {
+				Growth: 1,
+				Chicken: "chickens:flintchicken",
+				Gain: 1,
+				Strength: 1
+			}
+		}]
+	},
+	{
+		uid: "bc0f93a2",
+		type: "item",
+		items: [{
+			id: "roost:chicken",
+			tag: {
+				Growth: 1,
+				Chicken: "chickens:logchicken",
+				Gain: 1,
+				Strength: 1
+			}
+		}]
+	},
+	{
+		uid: "6d58d7f9",
+		type: "item",
+		items: [{
+			id: "roost:chicken",
+			tag: {
+				Growth: 1,
+				Chicken: "chickens:leatherchicken",
+				Gain: 1,
+				Strength: 1
+			}
+		}]
+	},
+	{
+		uid: "c0a7d058",
+		type: "item",
+		items: [{
+			id: "roost:chicken",
+			tag: {
+				Growth: 1,
+				Chicken: "chickens:stringchicken",
+				Gain: 1,
+				Strength: 1
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "0ea09905",
+		type: "loot",
+		table: 1
+	},
+	{
+		uid: "15cecaa7",
+		type: "xp",
+		xp: 10
+	}]
+}

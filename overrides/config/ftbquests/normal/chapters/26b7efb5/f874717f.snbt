@@ -1,0 +1,23 @@
+{
+	title: "The End?",
+	icon: "minecraft:end_crystal",
+	x: 0.0d,
+	y: 10.5d,
+	shape: "square",
+	size: 3.0d,
+	tasks: [{
+		uid: "bacded25",
+		type: "dimension",
+		dim: 1
+	}],
+	rewards: [{
+		uid: "7d4fd282",
+		type: "choice",
+		table: 2
+	},
+	{
+		uid: "77ec3eb9",
+		type: "xp",
+		xp: 10
+	}]
+}

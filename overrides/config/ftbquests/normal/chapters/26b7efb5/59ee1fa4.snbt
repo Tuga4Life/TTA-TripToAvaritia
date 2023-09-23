@@ -1,0 +1,27 @@
+{
+	title: "Is this the Hell?",
+	x: 0.0d,
+	y: 7.5d,
+	shape: "square",
+	size: 3.0d,
+	tasks: [{
+		uid: "704b9af1",
+		type: "dimension",
+		dim: -1
+	}],
+	rewards: [{
+		uid: "fcd144a8",
+		type: "choice",
+		table: 0
+	},
+	{
+		uid: "e3a8628e",
+		type: "item",
+		item: "travelersbackpack:travelers_backpack 1 46"
+	},
+	{
+		uid: "0fd1b1d0",
+		type: "xp",
+		xp: 10
+	}]
+}
