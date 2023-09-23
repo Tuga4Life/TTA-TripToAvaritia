@@ -1,0 +1,19 @@
+{
+	x: 0.0d,
+	y: 6.5d,
+	dependencies: [
+		"b63e28af"
+	],
+	tasks: [{
+		uid: "4fae4286",
+		type: "item",
+		items: [{
+			item: "avaritia:singularity 1 8"
+		}]
+	}],
+	rewards: [{
+		uid: "b1069d10",
+		type: "xp_levels",
+		xp_levels: 10
+	}]
+}

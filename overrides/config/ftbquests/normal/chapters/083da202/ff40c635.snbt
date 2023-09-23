@@ -1,0 +1,19 @@
+{
+	x: 5.5d,
+	y: 18.5d,
+	dependencies: [
+		"3ffab1ea"
+	],
+	tasks: [{
+		uid: "af63b947",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity 1 4"
+		}]
+	}],
+	rewards: [{
+		uid: "847c7ceb",
+		type: "xp_levels",
+		xp_levels: 10
+	}]
+}

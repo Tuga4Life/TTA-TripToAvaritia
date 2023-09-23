@@ -1,0 +1,75 @@
+{
+	title: "Every power of the world in MY HANDS!!",
+	x: 42.0d,
+	y: 14.0d,
+	shape: "heart",
+	dependencies: [
+		"35cf1f91"
+	],
+	size: 7.0d,
+	tasks: [{
+		uid: "0404498b",
+		type: "item",
+		items: [{
+			item: "avaritia:infinity_sword"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "570d0aca",
+		type: "item",
+		items: [{
+			id: "avaritia:infinity_pickaxe",
+			tag: {
+				ench: [{
+					lvl: 10s,
+					id: 35s
+				}]
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "ecc514c5",
+		type: "item",
+		items: [{
+			item: "avaritia:infinity_bow"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "e51a57fe",
+		type: "item",
+		items: [{
+			item: "avaritia:infinity_hoe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "419138d0",
+		type: "item",
+		items: [{
+			item: "avaritia:infinity_axe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "02eb5d83",
+		type: "item",
+		items: [{
+			item: "avaritia:infinity_shovel"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "fbecd363",
+		type: "xp_levels",
+		xp_levels: 1000000
+	}]
+}

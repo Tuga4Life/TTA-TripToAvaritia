@@ -1,0 +1,19 @@
+{
+	x: 0.0d,
+	y: 3.5d,
+	dependencies: [
+		"f98cb918"
+	],
+	tasks: [{
+		uid: "3ffab1ea",
+		type: "item",
+		items: [{
+			item: "avaritia:neutronium_compressor"
+		}]
+	}],
+	rewards: [{
+		uid: "2db64ca3",
+		type: "xp",
+		xp: 10
+	}]
+}

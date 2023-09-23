@@ -1,0 +1,16 @@
+{
+	x: 0.0d,
+	y: 23.0d,
+	tasks: [{
+		uid: "3f7e4eea",
+		type: "item",
+		items: [{
+			item: "avaritia:resource 1 1"
+		}]
+	}],
+	rewards: [{
+		uid: "808253ab",
+		type: "xp",
+		xp: 10
+	}]
+}

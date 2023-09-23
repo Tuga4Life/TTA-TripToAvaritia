@@ -1,0 +1,70 @@
+{
+	x: 0.0d,
+	y: 14.0d,
+	shape: "gear",
+	dependencies: [
+		"a3ebe72a",
+		"48601561",
+		"b654bc56",
+		"e3469304",
+		"b1da5419",
+		"a97e33fd",
+		"08db2d98",
+		"ca01e147",
+		"19089dce",
+		"610f3884",
+		"8cce4d00",
+		"e1d85697",
+		"583a2b28",
+		"fcac7a3f",
+		"083d4e29",
+		"48acc438",
+		"30a1a976",
+		"bc4a7950",
+		"a62290be",
+		"3f109b0f",
+		"8bebb534",
+		"dbb81118",
+		"ee93eab1",
+		"af63b947",
+		"704b49ed",
+		"6b9ab5fd",
+		"b6a83ac3",
+		"54196d35",
+		"7b2b3b44",
+		"17b2a381",
+		"d67e23c6",
+		"41d868a0",
+		"a142e33b",
+		"529d7ce4",
+		"af950e29",
+		"f7b6914b",
+		"89cfccb2",
+		"1f0dbab3",
+		"1b2919d6"
+	],
+	size: 4.0d,
+	tasks: [{
+		uid: "e4b3109c",
+		type: "item",
+		items: [{
+			item: "avaritia:resource 1 5"
+		}]
+	}],
+	rewards: [{
+		uid: "ec56dac2",
+		type: "item",
+		item: "avaritia:resource 1 5",
+		count: 8
+	},
+	{
+		uid: "52b17310",
+		type: "xp_levels",
+		xp_levels: 100
+	},
+	{
+		uid: "caa672fe",
+		type: "item",
+		item: "botania:dice"
+	}]
+}
