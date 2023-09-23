@@ -1,0 +1,23 @@
+{
+	x: 0.0d,
+	y: 7.5d,
+	dependencies: [
+		"c89c60e4"
+	],
+	tasks: [{
+		uid: "365b5f3e",
+		type: "item",
+		items: [{
+			id: "projecte:item.pe_klein_star",
+			tag: {},
+			Damage: 4s
+		}],
+		count: 4L,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "9e4c8f3b",
+		type: "xp",
+		xp: 10
+	}]
+}

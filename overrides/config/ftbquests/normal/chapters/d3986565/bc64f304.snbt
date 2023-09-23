@@ -1,0 +1,28 @@
+{
+	title: "The true alchemist",
+	x: -4.0d,
+	y: 0.5d,
+	text: [
+		"Get as much EMC as possible"
+	],
+	dependencies: [
+		"c75972f3",
+		"3f670be9"
+	],
+	dependency_requirement: "one_completed",
+	tasks: [{
+		uid: "ef86f52f",
+		type: "emc",
+		value: 9223372036854775807L
+	}],
+	rewards: [{
+		uid: "61c69735",
+		type: "item",
+		item: "avaritia:resource 1 2"
+	},
+	{
+		uid: "5bf2ad0d",
+		type: "xp_levels",
+		xp_levels: 50
+	}]
+}

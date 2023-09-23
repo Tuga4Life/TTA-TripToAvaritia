@@ -1,0 +1,26 @@
+{
+	x: 5.5d,
+	y: 3.5d,
+	text: [
+		"4x Better Than Tanks!"
+	],
+	dependencies: [
+		"2df71b81"
+	],
+	optional: true,
+	tasks: [{
+		uid: "812bcd1c",
+		type: "item",
+		items: [{
+			id: "appliedenergistics2:fluid_storage_cell_4k",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "6dfcaefb",
+		type: "xp",
+		xp: 10
+	}]
+}

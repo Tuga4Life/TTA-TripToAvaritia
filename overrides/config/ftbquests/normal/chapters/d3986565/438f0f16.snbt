@@ -1,0 +1,26 @@
+{
+	x: 9.0d,
+	y: 2.5d,
+	dependencies: [
+		"a9b9b235"
+	],
+	tasks: [{
+		uid: "561f3f25",
+		type: "item",
+		items: [{
+			item: "projecte:item.pe_volcanite_amulet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "d1ff55b7",
+		type: "item",
+		item: "projecte:item.pe_volcanite_amulet"
+	},
+	{
+		uid: "8a15c0f6",
+		type: "item",
+		item: "projecte:dm_pedestal"
+	}]
+}

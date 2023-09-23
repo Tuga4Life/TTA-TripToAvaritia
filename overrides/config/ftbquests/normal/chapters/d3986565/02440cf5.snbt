@@ -1,0 +1,22 @@
+{
+	x: 4.5d,
+	y: -0.5d,
+	text: [
+		"So much power in one item..."
+	],
+	dependencies: [
+		"21d94b84"
+	],
+	tasks: [{
+		uid: "f9554d09",
+		type: "item",
+		items: [{
+			item: "projecte:item.pe_matter 1 1"
+		}]
+	}],
+	rewards: [{
+		uid: "6d3512df",
+		type: "xp_levels",
+		xp_levels: 5
+	}]
+}

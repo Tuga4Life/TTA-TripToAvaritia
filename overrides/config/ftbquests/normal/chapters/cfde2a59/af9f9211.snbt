@@ -1,0 +1,28 @@
+{
+	title: "Ore duplication and powders",
+	icon: "appliedenergistics2:grindstone",
+	x: 0.0d,
+	y: -3.0d,
+	text: [
+		"Grindstone can be used to duplicate ores and make powders"
+	],
+	tasks: [{
+		uid: "6ec2d07d",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:grindstone"
+		}]
+	},
+	{
+		uid: "84015ffc",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:crank"
+		}]
+	}],
+	rewards: [{
+		uid: "2cdde614",
+		type: "xp",
+		xp: 10
+	}]
+}

@@ -1,0 +1,22 @@
+{
+	x: 2.0d,
+	y: -0.5d,
+	text: [
+		"A postulated form of matter that does not interact with ordinary matter, nor with itself."
+	],
+	dependencies: [
+		"8622044d"
+	],
+	tasks: [{
+		uid: "049cdf10",
+		type: "item",
+		items: [{
+			item: "projecte:item.pe_matter"
+		}]
+	}],
+	rewards: [{
+		uid: "ae2e5526",
+		type: "xp_levels",
+		xp_levels: 5
+	}]
+}

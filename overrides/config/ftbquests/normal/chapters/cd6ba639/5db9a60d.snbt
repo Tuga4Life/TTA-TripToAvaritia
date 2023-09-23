@@ -1,0 +1,19 @@
+{
+	x: 0.0d,
+	y: 5.5d,
+	dependencies: [
+		"ec5c08d0"
+	],
+	tasks: [{
+		uid: "c1606768",
+		type: "item",
+		items: [{
+			item: "draconicevolution:awakened_core"
+		}]
+	}],
+	rewards: [{
+		uid: "4f44cbe5",
+		type: "xp",
+		xp: 10
+	}]
+}

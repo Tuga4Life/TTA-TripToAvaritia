@@ -1,0 +1,63 @@
+{
+	title: "Draconic Armor",
+	x: 2.0d,
+	y: 5.5d,
+	dependencies: [
+		"5db9a60d",
+		"d216b593",
+		"df0bae55"
+	],
+	tasks: [{
+		uid: "c95aa503",
+		type: "item",
+		items: [{
+			item: "draconicevolution:draconic_helm"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "03de2801",
+		type: "item",
+		items: [{
+			item: "draconicevolution:draconic_chest"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "ce6cc372",
+		type: "item",
+		items: [{
+			item: "draconicevolution:draconic_legs"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "811b9971",
+		type: "item",
+		items: [{
+			item: "draconicevolution:draconic_boots"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "c62565a3",
+		type: "xp_levels",
+		xp_levels: 20
+	},
+	{
+		uid: "ecaecdeb",
+		type: "item",
+		item: "draconicevolution:awakened_core",
+		count: 20
+	},
+	{
+		uid: "bac5408c",
+		type: "item",
+		item: "draconicevolution:draconic_energy_core",
+		count: 10
+	}]
+}

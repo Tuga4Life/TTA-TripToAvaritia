@@ -1,0 +1,19 @@
+{
+	x: 4.0d,
+	y: -5.0d,
+	text: [
+		"Used to accept other types of energy"
+	],
+	tasks: [{
+		uid: "43465ea0",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:energy_acceptor"
+		}]
+	}],
+	rewards: [{
+		uid: "267a80a9",
+		type: "xp",
+		xp: 10
+	}]
+}
