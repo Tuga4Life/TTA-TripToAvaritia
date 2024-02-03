@@ -1,0 +1,24 @@
+{
+	x: 4.0d,
+	y: 4.0d,
+	dependencies: [
+		"32566095"
+	],
+	tasks: [{
+		uid: "b2d42f14",
+		type: "item",
+		items: [{
+			id: "botania:twigwand",
+			tag: {
+				color1: 0,
+				color2: 0
+			}
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "50c55007",
+		type: "xp",
+		xp: 10
+	}]
+}

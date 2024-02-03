@@ -10,7 +10,8 @@
   },
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
-  "name": "TTA",
+  "name": "TripToAvaritia",
+  "version": "v1.1.4",
   "author": "",
   "files": [
     {

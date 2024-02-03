@@ -1,0 +1,22 @@
+{
+	x: 5.0d,
+	y: -4.0d,
+	dependencies: [
+		"7d167aa4"
+	],
+	tasks: [{
+		uid: "fd19a4d4",
+		type: "item",
+		items: [{
+			id: "botania:manatablet",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "b6144f08",
+		type: "xp",
+		xp: 10
+	}]
+}

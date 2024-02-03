@@ -1,0 +1,29 @@
+{
+	x: 2.0d,
+	y: 0.0d,
+	dependencies: [
+		"d5c3ca01"
+	],
+	tasks: [{
+		uid: "0de63eeb",
+		type: "item",
+		items: [{
+			item: "botania:altar"
+		}]
+	}],
+	rewards: [{
+		uid: "2836056a",
+		type: "xp",
+		xp: 10
+	},
+	{
+		uid: "049092be",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				Parent: []
+			},
+			id: "botania:flowerbag"
+		}
+	}]
+}

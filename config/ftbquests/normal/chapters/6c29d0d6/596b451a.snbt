@@ -1,0 +1,27 @@
+{
+	x: 16.0d,
+	y: 0.0d,
+	dependencies: [
+		"633e881c"
+	],
+	tasks: [{
+		uid: "5ed4fbd4",
+		type: "item",
+		items: [{
+			item: "minecraft:beacon"
+		}]
+	},
+	{
+		uid: "d6628106",
+		type: "item",
+		items: [{
+			item: "botania:pylon 1 2"
+		}],
+		count: 4L
+	}],
+	rewards: [{
+		uid: "aeb6b2e1",
+		type: "xp",
+		xp: 10
+	}]
+}

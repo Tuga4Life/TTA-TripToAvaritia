@@ -1,25 +1,20 @@
 {
+	title: "Beautiful beginning",
 	icon: {
 		id: "botania:lexicon",
 		tag: {}
 	},
-	x: 0.5d,
-	y: -1.0d,
+	x: 0.0d,
+	y: 0.0d,
+	text: [
+		"On this path you will see the most beautiful things in this universe and you will learn the power of this beauty.",
+		"But everything that is beautiful has a dark side, so you will have to kill the evil."
+	],
 	tasks: [{
 		uid: "063d3942",
 		type: "checkmark"
 	}],
 	rewards: [{
-		uid: "ff1a3d96",
-		type: "item",
-		item: {
-			ForgeCaps: {
-				Parent: []
-			},
-			id: "botania:flowerbag"
-		}
-	},
-	{
 		uid: "67666015",
 		type: "xp",
 		xp: 10

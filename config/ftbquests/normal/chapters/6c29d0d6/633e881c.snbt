@@ -1,0 +1,35 @@
+{
+	x: 14.0d,
+	y: 0.0d,
+	dependencies: [
+		"61b669e3"
+	],
+	tasks: [{
+		uid: "a18fd7c0",
+		type: "item",
+		items: [{
+			item: "botania:pylon 1 1"
+		}],
+		count: 2L
+	},
+	{
+		uid: "c64280cd",
+		type: "item",
+		items: [{
+			item: "botania:alfheimportal"
+		}]
+	},
+	{
+		uid: "161dbd0d",
+		type: "item",
+		items: [{
+			item: "botania:livingwood 1 5"
+		}],
+		count: 3L
+	}],
+	rewards: [{
+		uid: "264e1326",
+		type: "xp",
+		xp: 10
+	}]
+}

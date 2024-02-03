@@ -1,0 +1,24 @@
+{
+	x: 21.5d,
+	y: -2.5d,
+	dependencies: [
+		"fd88b015"
+	],
+	tasks: [{
+		uid: "5012f2db",
+		type: "item",
+		items: [{
+			id: "botania:infinitefruit",
+			tag: {
+				soulbindUUID: "0a78dfa6-94b1-4c23-8d09-dc747b36ae26"
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "e9dcad6f",
+		type: "xp",
+		xp: 10
+	}]
+}

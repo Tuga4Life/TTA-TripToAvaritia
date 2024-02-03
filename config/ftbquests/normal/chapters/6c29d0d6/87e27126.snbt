@@ -1,0 +1,26 @@
+{
+	x: 14.0d,
+	y: 2.0d,
+	dependencies: [
+		"633e881c"
+	],
+	tasks: [{
+		uid: "ba6f59bb",
+		type: "item",
+		items: [{
+			id: "botania:lexicon",
+			tag: {
+				knowledge.minecraft: 1b,
+				knowledge.alfheim: 1b,
+				knowledge.relic: 1b
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "1d8dcc11",
+		type: "xp",
+		xp: 10
+	}]
+}

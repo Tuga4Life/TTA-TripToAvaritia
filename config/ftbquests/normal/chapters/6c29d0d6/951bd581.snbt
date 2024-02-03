@@ -1,0 +1,24 @@
+{
+	x: 4.0d,
+	y: -4.0d,
+	text: [
+		"A rare flower from the time of the Avaritia Warriors that was spread across the universe."
+	],
+	hide_dependency_lines: true,
+	dependencies: [
+		"7fa29b97"
+	],
+	size: 0.5d,
+	tasks: [{
+		uid: "ffbbe1ce",
+		type: "item",
+		items: [{
+			item: "botania:blacklotus"
+		}]
+	}],
+	rewards: [{
+		uid: "44ee1ccc",
+		type: "xp",
+		xp: 10
+	}]
+}

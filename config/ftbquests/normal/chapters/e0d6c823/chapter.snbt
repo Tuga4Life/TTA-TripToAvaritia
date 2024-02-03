@@ -11,7 +11,9 @@
 		height: 0.5d,
 		rotation: 0.0d,
 		image: "assets:meu projeto.png",
-		hover: [],
+		hover: [
+			"Needed for the Avaritia Armor"
+		],
 		click: "",
 		dev: false
 	}]

@@ -1,0 +1,19 @@
+{
+	x: 3.0d,
+	y: -4.0d,
+	dependencies: [
+		"7d167aa4"
+	],
+	tasks: [{
+		uid: "dd548699",
+		type: "item",
+		items: [{
+			item: "botania:pool"
+		}]
+	}],
+	rewards: [{
+		uid: "003f3ba9",
+		type: "xp",
+		xp: 10
+	}]
+}

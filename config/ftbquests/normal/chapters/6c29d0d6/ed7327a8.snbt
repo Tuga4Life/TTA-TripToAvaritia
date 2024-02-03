@@ -1,0 +1,24 @@
+{
+	x: 24.0d,
+	y: -0.5d,
+	dependencies: [
+		"fd88b015"
+	],
+	tasks: [{
+		uid: "75c1c70a",
+		type: "item",
+		items: [{
+			id: "botania:lokiring",
+			tag: {
+				soulbindUUID: "0a78dfa6-94b1-4c23-8d09-dc747b36ae26"
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "b52f4588",
+		type: "xp",
+		xp: 10
+	}]
+}

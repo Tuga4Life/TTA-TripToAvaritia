@@ -1,0 +1,23 @@
+{
+	x: -3.0d,
+	y: -3.0d,
+	dependencies: [
+		"3142cdee"
+	],
+	hide: true,
+	tasks: [{
+		uid: "12a5f69d",
+		type: "item",
+		items: [{
+			id: "botania:specialflower",
+			tag: {
+				type: "arcanerose"
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "c64bd3e4",
+		type: "xp",
+		xp: 10
+	}]
+}

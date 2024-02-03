@@ -1,0 +1,26 @@
+{
+	icon: "botania:gaiahead",
+	x: 18.0d,
+	y: 0.0d,
+	shape: "hexagon",
+	dependencies: [
+		"596b451a"
+	],
+	size: 2.5d,
+	tasks: [{
+		uid: "b26f7833",
+		type: "kill",
+		entity: "botania:doppleganger",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "c415fa46",
+		type: "item",
+		item: "botania:manaresource 1 5"
+	},
+	{
+		uid: "97cbb214",
+		type: "xp_levels",
+		xp_levels: 15
+	}]
+}

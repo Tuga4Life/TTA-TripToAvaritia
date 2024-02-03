@@ -1,0 +1,21 @@
+{
+	x: 23.5d,
+	y: 2.0d,
+	dependencies: [
+		"fd88b015"
+	],
+	tasks: [{
+		uid: "db95cf0f",
+		type: "item",
+		items: [{
+			item: "botania:flugeleye"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "624ec8ad",
+		type: "xp",
+		xp: 10
+	}]
+}

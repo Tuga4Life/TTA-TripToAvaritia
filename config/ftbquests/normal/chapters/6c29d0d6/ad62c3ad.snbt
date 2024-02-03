@@ -1,0 +1,23 @@
+{
+	x: -1.5d,
+	y: 3.5d,
+	dependencies: [
+		"3142cdee"
+	],
+	hide: true,
+	tasks: [{
+		uid: "1195cbef",
+		type: "item",
+		items: [{
+			id: "botania:specialflower",
+			tag: {
+				type: "shulk_me_not"
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "3bb45b97",
+		type: "xp",
+		xp: 10
+	}]
+}

@@ -1,0 +1,22 @@
+{
+	x: 4.0d,
+	y: 0.0d,
+	dependencies: [
+		"3142cdee"
+	],
+	tasks: [{
+		uid: "4b079e2f",
+		type: "item",
+		items: [{
+			id: "botania:specialflower",
+			tag: {
+				type: "puredaisy"
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "346a7931",
+		type: "xp",
+		xp: 10
+	}]
+}

@@ -1,0 +1,27 @@
+{
+	x: 21.5d,
+	y: 0.0d,
+	shape: "gear",
+	text: [
+		"Congratulations on killing evil...",
+		"I hope these relics help you on your trip."
+	],
+	dependencies: [
+		"93617778"
+	],
+	size: 2.5d,
+	tasks: [{
+		uid: "1222984a",
+		type: "item",
+		items: [{
+			item: "botania:dice"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "4c72a329",
+		type: "xp",
+		xp: 10
+	}]
+}

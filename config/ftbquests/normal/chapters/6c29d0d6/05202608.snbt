@@ -1,0 +1,19 @@
+{
+	x: 6.0d,
+	y: 0.0d,
+	dependencies: [
+		"7d167aa4"
+	],
+	tasks: [{
+		uid: "d8c081b9",
+		type: "item",
+		items: [{
+			item: "botania:runealtar"
+		}]
+	}],
+	rewards: [{
+		uid: "25618912",
+		type: "xp",
+		xp: 10
+	}]
+}
