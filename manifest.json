@@ -10,8 +10,7 @@
   },
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
-  "name": "TTA - TripToAvaritia",
-  "version": "v1.1.3",
+  "name": "TTA",
   "author": "",
   "files": [
     {
@@ -61,7 +60,7 @@
     },
     {
       "projectID": 239197,
-      "fileID": 4961707,
+      "fileID": 5013567,
       "required": true
     },
     {
@@ -201,7 +200,7 @@
     },
     {
       "projectID": 32274,
-      "fileID": 2916002,
+      "fileID": 5045718,
       "required": true
     },
     {
@@ -542,6 +541,11 @@
     {
       "projectID": 233019,
       "fileID": 2450734,
+      "required": true
+    },
+    {
+      "projectID": 225247,
+      "fileID": 2484148,
       "required": true
     },
     {
