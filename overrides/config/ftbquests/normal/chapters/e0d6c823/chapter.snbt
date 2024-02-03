@@ -1,7 +1,0 @@
-{
-	title: "Ender Power",
-	icon: "enderio:block_enderman_skull 1 2",
-	always_invisible: false,
-	group: 0,
-	default_quest_shape: "rsquare"
-}

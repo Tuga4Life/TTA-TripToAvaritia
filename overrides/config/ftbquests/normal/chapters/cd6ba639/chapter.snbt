@@ -1,7 +1,0 @@
-{
-	title: "Dragon Power",
-	icon: "draconicevolution:dragon_heart",
-	always_invisible: false,
-	group: 0,
-	default_quest_shape: "rsquare"
-}
