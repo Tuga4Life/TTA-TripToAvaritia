@@ -1,0 +1,24 @@
+{
+	x: -3.5d,
+	y: 6.5d,
+	text: [
+		"This pet gives you random gifts, scares away Zombies and spawn companion"
+	],
+	dependencies: [
+		"9cdb347c"
+	],
+	tasks: [{
+		uid: "5ed7cb8a",
+		type: "item",
+		items: [{
+			item: "inventorypets:siamese_pet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "7c94a36f",
+		type: "xp",
+		xp: 10
+	}]
+}

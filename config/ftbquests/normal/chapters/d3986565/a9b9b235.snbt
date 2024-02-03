@@ -1,0 +1,21 @@
+{
+	x: 13.5d,
+	y: 4.0d,
+	dependencies: [
+		"049cdf10",
+		"f9554d09",
+		"20050cb6"
+	],
+	tasks: [{
+		uid: "e3c0fa41",
+		type: "item",
+		items: [{
+			item: "projecte:dm_pedestal"
+		}]
+	}],
+	rewards: [{
+		uid: "21e4c9e7",
+		type: "xp_levels",
+		xp_levels: 5
+	}]
+}

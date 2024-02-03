@@ -1,0 +1,24 @@
+{
+	x: 5.5d,
+	y: 8.0d,
+	text: [
+		"This pet does the work of nature's compass"
+	],
+	dependencies: [
+		"9cdb347c"
+	],
+	tasks: [{
+		uid: "25153f8e",
+		type: "item",
+		items: [{
+			item: "inventorypets:biome_pet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "81b9dffa",
+		type: "xp",
+		xp: 10
+	}]
+}

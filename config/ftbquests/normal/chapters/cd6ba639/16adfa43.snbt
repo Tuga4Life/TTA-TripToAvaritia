@@ -1,0 +1,22 @@
+{
+	icon: "minecraft:skull 1 5",
+	x: -5.0d,
+	y: 0.0d,
+	size: 2.0d,
+	tasks: [{
+		uid: "60091b09",
+		type: "kill",
+		entity: "draconicevolution:chaosguardian",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "6b16780a",
+		type: "xp_levels",
+		xp_levels: 100
+	},
+	{
+		uid: "e7475ba4",
+		type: "item",
+		item: "draconicadditions:portable_wired_charger 1 3"
+	}]
+}

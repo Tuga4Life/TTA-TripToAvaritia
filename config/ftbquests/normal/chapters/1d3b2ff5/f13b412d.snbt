@@ -1,0 +1,24 @@
+{
+	x: -4.5d,
+	y: 5.5d,
+	text: [
+		"Sound blast"
+	],
+	dependencies: [
+		"9cdb347c"
+	],
+	tasks: [{
+		uid: "1095322f",
+		type: "item",
+		items: [{
+			item: "inventorypets:dubstep_pet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "e48daba4",
+		type: "xp",
+		xp: 10
+	}]
+}

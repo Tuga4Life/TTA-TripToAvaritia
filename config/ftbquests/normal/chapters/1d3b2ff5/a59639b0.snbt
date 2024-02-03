@@ -1,0 +1,17 @@
+{
+	x: -7.5d,
+	y: -0.5d,
+	description: "I think the name says it all",
+	dependencies: [
+		"5d81e902"
+	],
+	tasks: [{
+		uid: "199685f3",
+		type: "item",
+		items: [{
+			item: "inventorypets:ender_chest_pet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

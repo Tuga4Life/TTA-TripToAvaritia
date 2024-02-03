@@ -1,0 +1,49 @@
+{
+	x: 4.5d,
+	y: 7.5d,
+	text: [
+		"This tome has knowledge of all items with EMC...",
+		"Try putting it on the Transmutation Table"
+	],
+	dependencies: [
+		"bc64f304",
+		"20050cb6",
+		"bae21b21"
+	],
+	tasks: [{
+		uid: "e3ed79cb",
+		type: "item",
+		items: [{
+			item: "projecte:item.pe_tome"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "ce563371",
+		type: "item",
+		item: {
+			id: "mekanism:basicblock2",
+			tag: {
+				tier: 3
+			},
+			Damage: 3s
+		}
+	},
+	{
+		uid: "efd96d98",
+		type: "item",
+		item: {
+			id: "mekanism:basicblock2",
+			tag: {
+				tier: 3
+			},
+			Damage: 4s
+		}
+	},
+	{
+		uid: "c20ca0d9",
+		type: "item",
+		item: "draconicevolution:chaos_shard"
+	}]
+}

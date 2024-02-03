@@ -1,0 +1,20 @@
+{
+	x: -11.0d,
+	y: -1.0d,
+	dependencies: [
+		"7c590d0c"
+	],
+	tasks: [{
+		uid: "fa453d3b",
+		type: "item",
+		items: [{
+			item: "enderio:item_gas_conduit"
+		}],
+		count: 8L
+	}],
+	rewards: [{
+		uid: "2bccea39",
+		type: "xp",
+		xp: 10
+	}]
+}

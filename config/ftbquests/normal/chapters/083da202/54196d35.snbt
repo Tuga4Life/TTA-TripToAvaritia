@@ -1,0 +1,19 @@
+{
+	x: -6.0d,
+	y: 20.0d,
+	dependencies: [
+		"60206514"
+	],
+	tasks: [{
+		uid: "924a4101",
+		type: "item",
+		items: [{
+			item: "avaritia:ultimate_stew"
+		}]
+	}],
+	rewards: [{
+		uid: "470e9ebe",
+		type: "xp_levels",
+		xp_levels: 10
+	}]
+}

@@ -1,0 +1,24 @@
+{
+	x: 4.5d,
+	y: 5.5d,
+	text: [
+		"Gives you invulnerability for 1 minute and weakens enemies"
+	],
+	dependencies: [
+		"9cdb347c"
+	],
+	tasks: [{
+		uid: "6f23b0c8",
+		type: "item",
+		items: [{
+			item: "inventorypets:juggernaut_pet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "5b653866",
+		type: "xp",
+		xp: 10
+	}]
+}

@@ -1,0 +1,27 @@
+{
+	x: -1.5d,
+	y: -9.5d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"8313a279",
+		"98c9a4a7"
+	],
+	tasks: [{
+		uid: "72619cbb",
+		type: "item",
+		items: [{
+			id: "roost:chicken",
+			tag: {
+				Growth: 1,
+				Chicken: "morechickens:conductiveironchicken",
+				Gain: 1,
+				Strength: 1
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "3684ec7d",
+		type: "xp",
+		xp: 10
+	}]
+}

@@ -1,0 +1,23 @@
+{
+	x: -3.0d,
+	y: -3.0d,
+	dependencies: [
+		"f9c7d111"
+	],
+	optional: true,
+	tasks: [{
+		uid: "a216cab5",
+		type: "item",
+		items: [{
+			id: "draconicevolution:dislocator_advanced",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "7556447b",
+		type: "xp",
+		xp: 10
+	}]
+}

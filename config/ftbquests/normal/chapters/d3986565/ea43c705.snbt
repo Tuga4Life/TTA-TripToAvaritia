@@ -1,0 +1,26 @@
+{
+	x: 9.0d,
+	y: 5.5d,
+	dependencies: [
+		"a9b9b235"
+	],
+	tasks: [{
+		uid: "5e3aea7a",
+		type: "item",
+		items: [{
+			item: "projecte:item.pe_body_stone"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "7f517ad4",
+		type: "item",
+		item: "projecte:item.pe_body_stone"
+	},
+	{
+		uid: "b80ca069",
+		type: "item",
+		item: "projecte:dm_pedestal"
+	}]
+}

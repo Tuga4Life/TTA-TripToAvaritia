@@ -1,0 +1,27 @@
+{
+	x: 1.5d,
+	y: 10.5d,
+	text: [
+		"This pet teleports you to your home."
+	],
+	dependencies: [
+		"9cdb347c"
+	],
+	tasks: [{
+		uid: "b8b517fb",
+		type: "item",
+		items: [{
+			id: "inventorypets:house_pet",
+			tag: {
+				homeDimension: 0
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "d7879de7",
+		type: "xp",
+		xp: 10
+	}]
+}

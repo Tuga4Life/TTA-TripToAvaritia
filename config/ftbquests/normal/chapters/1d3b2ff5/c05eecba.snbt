@@ -1,0 +1,22 @@
+{
+	x: -8.5d,
+	y: 4.5d,
+	description: "I think the name says it all",
+	dependencies: [
+		"9cdb347c"
+	],
+	tasks: [{
+		uid: "60d38311",
+		type: "item",
+		items: [{
+			item: "inventorypets:furnace_pet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "40355551",
+		type: "xp",
+		xp: 10
+	}]
+}

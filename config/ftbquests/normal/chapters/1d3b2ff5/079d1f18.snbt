@@ -1,0 +1,24 @@
+{
+	x: 8.5d,
+	y: -1.5d,
+	text: [
+		"Gives you Water breathing, underwater vision, swim boost and sink down"
+	],
+	dependencies: [
+		"9cdb347c"
+	],
+	tasks: [{
+		uid: "7f6faa70",
+		type: "item",
+		items: [{
+			item: "inventorypets:squid_pet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "38e49054",
+		type: "xp",
+		xp: 10
+	}]
+}

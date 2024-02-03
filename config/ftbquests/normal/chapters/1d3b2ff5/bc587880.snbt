@@ -1,0 +1,24 @@
+{
+	x: 1.5d,
+	y: -4.0d,
+	text: [
+		"This pet gives you immune to Wither Effect, all the damage dealt heals you and the ability to shoot Wither Skull"
+	],
+	dependencies: [
+		"9cdb347c"
+	],
+	tasks: [{
+		uid: "cef00ed3",
+		type: "item",
+		items: [{
+			item: "inventorypets:wither_pet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "436db8c8",
+		type: "xp",
+		xp: 10
+	}]
+}

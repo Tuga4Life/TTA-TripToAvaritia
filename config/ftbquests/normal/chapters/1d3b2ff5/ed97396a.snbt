@@ -1,0 +1,27 @@
+{
+	x: -3.0d,
+	y: -7.0d,
+	text: [
+		"This pet gives knockback"
+	],
+	dependencies: [
+		"9cdb347c"
+	],
+	tasks: [{
+		uid: "1e8331af",
+		type: "item",
+		items: [{
+			id: "inventorypets:snow_golem_pet",
+			tag: {
+				GiveItems: 1b
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "09787288",
+		type: "xp",
+		xp: 10
+	}]
+}

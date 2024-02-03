@@ -1,0 +1,27 @@
+{
+	x: 4.0d,
+	y: 6.5d,
+	text: [
+		"Better than Gas Tanks!"
+	],
+	dependencies: [
+		"7970c5c3"
+	],
+	optional: true,
+	tasks: [{
+		uid: "98b90b84",
+		type: "item",
+		items: [{
+			id: "aeadditions:storage.gas",
+			tag: {
+				fuzzyMode: "IGNORE_ALL"
+			}
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "941e92a1",
+		type: "xp",
+		xp: 10
+	}]
+}

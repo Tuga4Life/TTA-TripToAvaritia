@@ -1,0 +1,27 @@
+{
+	x: 8.0d,
+	y: -0.5d,
+	text: [
+		"Gives slow fall effect and wool"
+	],
+	dependencies: [
+		"9cdb347c"
+	],
+	tasks: [{
+		uid: "7bf923f2",
+		type: "item",
+		items: [{
+			id: "inventorypets:sheep_pet",
+			tag: {
+				GiveItems: 1b
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "f7e261a3",
+		type: "xp",
+		xp: 10
+	}]
+}

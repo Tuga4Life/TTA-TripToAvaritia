@@ -1,0 +1,115 @@
+{
+	title: "The Infinity Stones in a suit of ARMOR!!!",
+	icon: "projecte:item.pe_gem_armor_2",
+	x: 4.5d,
+	y: 4.0d,
+	shape: "gear",
+	dependencies: [
+		"f4204472",
+		"9852ac17",
+		"ea43c705",
+		"b62a416c",
+		"7700dd88",
+		"fc645f9d",
+		"cf24ef3d",
+		"438f0f16",
+		"b381774f"
+	],
+	size: 3.0d,
+	tasks: [{
+		uid: "9a35f927",
+		type: "item",
+		items: [{
+			item: "projecte:item.pe_gem_armor_3"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "4ee168c5",
+		type: "item",
+		items: [{
+			item: "projecte:item.pe_gem_armor_2"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "c974040b",
+		type: "item",
+		items: [{
+			item: "projecte:item.pe_gem_armor_1"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "6a72faca",
+		type: "item",
+		items: [{
+			item: "projecte:item.pe_gem_armor_0"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "ef41a21b",
+		type: "item",
+		items: [{
+			id: "projecte:item.pe_rm_sword",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "a414cba0",
+		type: "item",
+		items: [{
+			id: "projecte:item.pe_rm_pick",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "c26b03c0",
+		type: "item",
+		items: [{
+			id: "projecte:item.pe_rm_axe",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "3cb86f12",
+		type: "item",
+		items: [{
+			id: "projecte:item.pe_rm_shovel",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "328eceac",
+		type: "item",
+		items: [{
+			id: "projecte:item.pe_rm_hoe",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "9a4b067f",
+		type: "xp_levels",
+		xp_levels: 25
+	},
+	{
+		uid: "277a32f5",
+		type: "item",
+		item: "botania:dice"
+	}]
+}

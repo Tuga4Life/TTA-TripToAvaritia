@@ -1,0 +1,24 @@
+{
+	x: 0.0d,
+	y: 8.0d,
+	text: [
+		"This pet turn cobble to dirt and gives you bonus in cobblestone"
+	],
+	dependencies: [
+		"9cdb347c"
+	],
+	tasks: [{
+		uid: "a0f1d9c2",
+		type: "item",
+		items: [{
+			item: "inventorypets:dirt_pet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "ab22ae87",
+		type: "xp",
+		xp: 10
+	}]
+}

@@ -1,0 +1,35 @@
+{
+	icon: {
+		id: "botania:lexicon",
+		tag: {}
+	},
+	x: 0.5d,
+	y: -1.0d,
+	tasks: [{
+		uid: "063d3942",
+		type: "checkmark"
+	}],
+	rewards: [{
+		uid: "ff1a3d96",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				Parent: []
+			},
+			id: "botania:flowerbag"
+		}
+	},
+	{
+		uid: "67666015",
+		type: "xp",
+		xp: 10
+	},
+	{
+		uid: "113d5787",
+		type: "item",
+		item: {
+			id: "botania:lexicon",
+			tag: {}
+		}
+	}]
+}

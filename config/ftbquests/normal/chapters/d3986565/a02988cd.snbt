@@ -1,0 +1,19 @@
+{
+	title: "Book of Alchemist",
+	x: 0.0d,
+	y: -4.5d,
+	tasks: [{
+		uid: "20050cb6",
+		type: "item",
+		items: [{
+			item: "projecte:item.pe_manual"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "ae474bf1",
+		type: "xp",
+		xp: 10
+	}]
+}

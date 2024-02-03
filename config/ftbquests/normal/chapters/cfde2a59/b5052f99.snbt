@@ -1,0 +1,24 @@
+{
+	x: 10.0d,
+	y: 3.5d,
+	dependencies: [
+		"70a4025c"
+	],
+	optional: true,
+	tasks: [{
+		uid: "9340d1af",
+		type: "item",
+		items: [{
+			id: "aeadditions:storage.fluid",
+			tag: {
+				fuzzyMode: "IGNORE_ALL"
+			}
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "9a085d35",
+		type: "xp",
+		xp: 10
+	}]
+}

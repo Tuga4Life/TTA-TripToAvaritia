@@ -1,0 +1,24 @@
+{
+	x: -1.5d,
+	y: -5.5d,
+	text: [
+		"Auto repair the items and spawn a living anvil"
+	],
+	dependencies: [
+		"9cdb347c"
+	],
+	tasks: [{
+		uid: "185c4475",
+		type: "item",
+		items: [{
+			item: "inventorypets:anvil_pet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "c55cc39c",
+		type: "xp",
+		xp: 10
+	}]
+}

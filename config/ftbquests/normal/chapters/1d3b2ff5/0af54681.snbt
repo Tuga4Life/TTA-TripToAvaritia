@@ -1,0 +1,24 @@
+{
+	x: 9.0d,
+	y: -3.5d,
+	text: [
+		"Gives Double XP"
+	],
+	dependencies: [
+		"9cdb347c"
+	],
+	tasks: [{
+		uid: "51b25f96",
+		type: "item",
+		items: [{
+			item: "inventorypets:pixie_pet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "6713bada",
+		type: "xp",
+		xp: 10
+	}]
+}

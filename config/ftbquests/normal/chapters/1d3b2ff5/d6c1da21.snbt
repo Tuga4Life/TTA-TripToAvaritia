@@ -1,0 +1,27 @@
+{
+	x: 7.0d,
+	y: 6.5d,
+	text: [
+		"Gives you speed boost and UABOS"
+	],
+	dependencies: [
+		"9cdb347c"
+	],
+	tasks: [{
+		uid: "af980522",
+		type: "item",
+		items: [{
+			id: "inventorypets:chicken_pet",
+			tag: {
+				GiveItems: 1b
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "1fd6e6a0",
+		type: "xp",
+		xp: 10
+	}]
+}

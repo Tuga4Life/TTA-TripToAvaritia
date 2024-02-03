@@ -1,0 +1,7 @@
+{
+	title: "Mythological creatures",
+	icon: "inventorypets:illuminati_pet",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

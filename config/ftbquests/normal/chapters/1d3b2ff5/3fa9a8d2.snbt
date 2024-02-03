@@ -1,0 +1,24 @@
+{
+	x: 0.5d,
+	y: -6.0d,
+	text: [
+		"This pet restore your items after your death"
+	],
+	dependencies: [
+		"9cdb347c"
+	],
+	tasks: [{
+		uid: "ebfc8f74",
+		type: "item",
+		items: [{
+			item: "inventorypets:grave_pet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "058828e9",
+		type: "xp",
+		xp: 10
+	}]
+}

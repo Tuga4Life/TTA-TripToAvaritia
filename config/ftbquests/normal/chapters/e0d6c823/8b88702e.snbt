@@ -1,0 +1,17 @@
+{
+	x: -8.5d,
+	y: 4.5d,
+	optional: true,
+	tasks: [{
+		uid: "cfc17769",
+		type: "item",
+		items: [{
+			item: "enderio:item_extract_speed_downgrade"
+		}]
+	}],
+	rewards: [{
+		uid: "e36382bb",
+		type: "xp",
+		xp: 10
+	}]
+}

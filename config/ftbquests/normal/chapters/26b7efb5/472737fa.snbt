@@ -1,0 +1,36 @@
+{
+	title: "The beginning of a true dedication",
+	icon: "minecraft:wooden_hoe",
+	x: 6.0d,
+	y: 6.0d,
+	shape: "rsquare",
+	hide_dependency_lines: true,
+	dependencies: [
+		"88642e9d",
+		"80a7cf3c",
+		"98c9a4a7",
+		"210d89e2",
+		"08de2679",
+		"1efb45bc"
+	],
+	hide: true,
+	size: 3.0d,
+	optional: true,
+	tasks: [{
+		uid: "4b5b987b",
+		type: "checkmark"
+	}],
+	rewards: [{
+		uid: "39ff4948",
+		type: "item",
+		item: {
+			id: "projecte:item.pe_time_watch",
+			tag: {}
+		}
+	},
+	{
+		uid: "0f704a96",
+		type: "item",
+		item: "projecte:dm_pedestal"
+	}]
+}

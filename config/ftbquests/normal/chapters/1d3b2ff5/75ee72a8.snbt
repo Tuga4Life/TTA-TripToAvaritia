@@ -1,0 +1,24 @@
+{
+	x: -6.5d,
+	y: 2.5d,
+	text: [
+		"Gives you regeneration and fills your buckets with lava"
+	],
+	dependencies: [
+		"9cdb347c"
+	],
+	tasks: [{
+		uid: "ee4de44c",
+		type: "item",
+		items: [{
+			item: "inventorypets:purplicious_cow_pet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "738b01fa",
+		type: "xp",
+		xp: 10
+	}]
+}

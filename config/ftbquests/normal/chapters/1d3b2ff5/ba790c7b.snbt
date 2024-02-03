@@ -1,0 +1,17 @@
+{
+	x: -10.5d,
+	y: 0.5d,
+	description: "I think the name says it all",
+	dependencies: [
+		"9cdb347c"
+	],
+	tasks: [{
+		uid: "0465a1fe",
+		type: "item",
+		items: [{
+			item: "inventorypets:crafting_table_pet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,24 @@
+{
+	x: 9.5d,
+	y: 2.5d,
+	text: [
+		"Now you can summon a wolf to be your friend"
+	],
+	dependencies: [
+		"9cdb347c"
+	],
+	tasks: [{
+		uid: "3a44adc2",
+		type: "item",
+		items: [{
+			item: "inventorypets:wolf_pet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "6667396f",
+		type: "xp",
+		xp: 10
+	}]
+}

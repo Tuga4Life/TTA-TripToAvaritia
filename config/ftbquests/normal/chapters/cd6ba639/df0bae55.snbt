@@ -1,0 +1,62 @@
+{
+	title: "Wyvern Armor",
+	x: 2.0d,
+	y: 3.5d,
+	dependencies: [
+		"ec5c08d0",
+		"a067cce1"
+	],
+	tasks: [{
+		uid: "f42786ef",
+		type: "item",
+		items: [{
+			item: "draconicevolution:wyvern_helm"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "46098fe7",
+		type: "item",
+		items: [{
+			item: "draconicevolution:wyvern_chest"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "f857d6c1",
+		type: "item",
+		items: [{
+			item: "draconicevolution:wyvern_legs"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "e20fc193",
+		type: "item",
+		items: [{
+			item: "draconicevolution:wyvern_boots"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "a2e49927",
+		type: "xp_levels",
+		xp_levels: 10
+	},
+	{
+		uid: "6c2faaec",
+		type: "item",
+		item: "draconicevolution:wyvern_core",
+		count: 20
+	},
+	{
+		uid: "5024da26",
+		type: "item",
+		item: "draconicevolution:wyvern_energy_core",
+		count: 10
+	}]
+}

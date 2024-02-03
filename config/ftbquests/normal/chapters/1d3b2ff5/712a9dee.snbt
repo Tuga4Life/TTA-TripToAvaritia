@@ -1,0 +1,24 @@
+{
+	x: -1.5d,
+	y: -8.0d,
+	text: [
+		"Gives resistence"
+	],
+	dependencies: [
+		"9cdb347c"
+	],
+	tasks: [{
+		uid: "bec36816",
+		type: "item",
+		items: [{
+			item: "inventorypets:mickerson_pet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "b1e75838",
+		type: "xp",
+		xp: 10
+	}]
+}

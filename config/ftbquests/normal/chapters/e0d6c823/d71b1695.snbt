@@ -1,0 +1,117 @@
+{
+	title: "The Star",
+	icon: "enderio:item_stellar_alloy_chestplate",
+	x: 6.5d,
+	y: 6.0d,
+	shape: "gear",
+	dependencies: [
+		"82b7c878"
+	],
+	size: 3.0d,
+	tasks: [{
+		uid: "101eaf3b",
+		type: "item",
+		items: [{
+			item: "enderio:item_end_steel_bow"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "2f6e02de",
+		type: "item",
+		items: [{
+			item: "enderio:item_stellar_alloy_sword"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "05158a2e",
+		type: "item",
+		items: [{
+			item: "enderio:item_stellar_alloy_helmet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "191a6545",
+		type: "item",
+		items: [{
+			item: "enderio:item_stellar_alloy_boots"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "80e30ed4",
+		type: "item",
+		items: [{
+			item: "enderio:item_stellar_alloy_leggings"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "dcee9768",
+		type: "item",
+		items: [{
+			item: "enderio:item_stellar_alloy_axe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "6796e46b",
+		type: "item",
+		items: [{
+			item: "enderio:item_stellar_alloy_pickaxe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "fc7e36bb",
+		type: "item",
+		items: [{
+			item: "enderio:item_dark_steel_hand"
+		}]
+	},
+	{
+		uid: "090643a0",
+		type: "item",
+		items: [{
+			item: "enderio:item_stellar_alloy_chestplate"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "ed3f3c6c",
+		type: "xp_levels",
+		xp_levels: 70
+	},
+	{
+		uid: "05d8fd3e",
+		type: "item",
+		item: {
+			id: "mekanism:basicblock2",
+			tag: {
+				tier: 3
+			},
+			Damage: 3s
+		}
+	},
+	{
+		uid: "4472d5b0",
+		type: "item",
+		item: {
+			id: "mekanism:basicblock2",
+			tag: {
+				tier: 3
+			},
+			Damage: 4s
+		}
+	}]
+}

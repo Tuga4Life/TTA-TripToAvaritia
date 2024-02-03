@@ -1,0 +1,26 @@
+{
+	x: 8.5d,
+	y: 0.5d,
+	text: [
+		"64x Better Than Chests!"
+	],
+	dependencies: [
+		"02dc4c13"
+	],
+	optional: true,
+	tasks: [{
+		uid: "fff1b0de",
+		type: "item",
+		items: [{
+			id: "appliedenergistics2:storage_cell_64k",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "f519ad29",
+		type: "xp",
+		xp: 10
+	}]
+}

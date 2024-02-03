@@ -1,0 +1,25 @@
+{
+	x: -8.5d,
+	y: -4.0d,
+	description: "A new update",
+	text: [
+		""
+	],
+	dependencies: [
+		"5d81e902"
+	],
+	tasks: [{
+		uid: "7e2b557a",
+		type: "item",
+		items: [{
+			item: "inventorypets:double_chest_pet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "84e849b1",
+		type: "xp",
+		xp: 10
+	}]
+}

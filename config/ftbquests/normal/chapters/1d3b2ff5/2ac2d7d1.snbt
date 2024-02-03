@@ -1,0 +1,24 @@
+{
+	x: 2.5d,
+	y: -5.5d,
+	text: [
+		"This pet gives you the ability to walk throught wall and the immunity to suffocation"
+	],
+	dependencies: [
+		"9cdb347c"
+	],
+	tasks: [{
+		uid: "68a93567",
+		type: "item",
+		items: [{
+			item: "inventorypets:silverfish_pet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "f0b59771",
+		type: "xp",
+		xp: 10
+	}]
+}

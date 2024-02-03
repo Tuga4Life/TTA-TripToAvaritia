@@ -1,0 +1,27 @@
+{
+	x: 6.0d,
+	y: -9.5d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"2f31c7a4",
+		"966e872c"
+	],
+	tasks: [{
+		uid: "723fba1b",
+		type: "item",
+		items: [{
+			id: "roost:chicken",
+			tag: {
+				Growth: 1,
+				Chicken: "morechickens:electrumchicken",
+				Gain: 1,
+				Strength: 1
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "e4dad22c",
+		type: "xp",
+		xp: 10
+	}]
+}

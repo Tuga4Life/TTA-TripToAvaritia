@@ -1,0 +1,30 @@
+{
+	x: 11.5d,
+	y: 0.5d,
+	text: [
+		"1024x Better Than Chests!"
+	],
+	dependencies: [
+		"d69353d7"
+	],
+	optional: true,
+	tasks: [{
+		uid: "4e03aa2f",
+		type: "item",
+		items: [{
+			id: "aeadditions:storage.physical",
+			tag: {
+				upgrades: {},
+				config: {},
+				fuzzyMode: "IGNORE_ALL"
+			},
+			Damage: 1s
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "a5f3e1d8",
+		type: "xp",
+		xp: 10
+	}]
+}

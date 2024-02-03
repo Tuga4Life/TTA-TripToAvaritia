@@ -1,0 +1,25 @@
+{
+	x: -5.5d,
+	y: 8.0d,
+	description: "My hands is not on fire!?!",
+	text: [
+		"Prevents mobs to spawn"
+	],
+	dependencies: [
+		"9cdb347c"
+	],
+	tasks: [{
+		uid: "4fa3e5c1",
+		type: "item",
+		items: [{
+			item: "inventorypets:sun_pet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "6060b141",
+		type: "xp",
+		xp: 10
+	}]
+}

@@ -1,0 +1,24 @@
+{
+	x: 0.0d,
+	y: -2.5d,
+	text: [
+		"Gives you the opportunity to ride mobs"
+	],
+	dependencies: [
+		"9cdb347c"
+	],
+	tasks: [{
+		uid: "d9b357e7",
+		type: "item",
+		items: [{
+			item: "inventorypets:saddle_pet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "7e73ff13",
+		type: "xp",
+		xp: 10
+	}]
+}

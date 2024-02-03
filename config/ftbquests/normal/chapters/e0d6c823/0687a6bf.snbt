@@ -1,0 +1,17 @@
+{
+	x: -8.5d,
+	y: 3.0d,
+	optional: true,
+	tasks: [{
+		uid: "69702610",
+		type: "item",
+		items: [{
+			item: "enderio:item_extract_speed_upgrade"
+		}]
+	}],
+	rewards: [{
+		uid: "e4c78ea5",
+		type: "xp",
+		xp: 10
+	}]
+}

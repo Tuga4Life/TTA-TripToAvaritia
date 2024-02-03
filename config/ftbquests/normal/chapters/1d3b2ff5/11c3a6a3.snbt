@@ -1,0 +1,24 @@
+{
+	x: -5.5d,
+	y: 4.0d,
+	text: [
+		"Summon minions"
+	],
+	dependencies: [
+		"9cdb347c"
+	],
+	tasks: [{
+		uid: "1431b993",
+		type: "item",
+		items: [{
+			item: "inventorypets:qcm_pet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "7e258f3a",
+		type: "xp",
+		xp: 10
+	}]
+}

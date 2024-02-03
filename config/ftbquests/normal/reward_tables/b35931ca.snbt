@@ -1,0 +1,13 @@
+{
+	title: "End",
+	loot_size: 1,
+	rewards: [{
+		item: "travelersbackpack:travelers_backpack 1 22"
+	},
+	{
+		item: "travelersbackpack:travelers_backpack 1 26"
+	},
+	{
+		item: "travelersbackpack:travelers_backpack 1 27"
+	}]
+}

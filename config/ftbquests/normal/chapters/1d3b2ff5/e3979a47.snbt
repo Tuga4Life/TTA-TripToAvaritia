@@ -1,0 +1,24 @@
+{
+	x: 2.5d,
+	y: -8.0d,
+	text: [
+		"This pet extract the ores around you"
+	],
+	dependencies: [
+		"9cdb347c"
+	],
+	tasks: [{
+		uid: "929e9526",
+		type: "item",
+		items: [{
+			item: "inventorypets:pingot_pet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "cef7664c",
+		type: "xp",
+		xp: 10
+	}]
+}

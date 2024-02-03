@@ -1,0 +1,24 @@
+{
+	x: -9.5d,
+	y: 2.5d,
+	text: [
+		"Gives you super damage boost and auto-eats when you are hungry"
+	],
+	dependencies: [
+		"9cdb347c"
+	],
+	tasks: [{
+		uid: "7a5c4f90",
+		type: "item",
+		items: [{
+			item: "inventorypets:pacman_pet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "59b6597e",
+		type: "xp",
+		xp: 10
+	}]
+}

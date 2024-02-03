@@ -1,0 +1,22 @@
+{
+	x: 0.0d,
+	y: -2.5d,
+	dependencies: [
+		"a02988cd"
+	],
+	tasks: [{
+		uid: "6068913a",
+		type: "item",
+		items: [{
+			id: "projecte:item.pe_philosophers_stone",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "1d4e22de",
+		type: "xp",
+		xp: 10
+	}]
+}

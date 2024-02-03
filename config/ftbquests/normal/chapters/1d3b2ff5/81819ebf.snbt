@@ -1,0 +1,24 @@
+{
+	x: 9.5d,
+	y: -7.0d,
+	text: [
+		"A kind of banana-shaped boomerang"
+	],
+	dependencies: [
+		"9cdb347c"
+	],
+	tasks: [{
+		uid: "5a1bda32",
+		type: "item",
+		items: [{
+			item: "inventorypets:banana_pet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "9ab64db5",
+		type: "xp",
+		xp: 10
+	}]
+}

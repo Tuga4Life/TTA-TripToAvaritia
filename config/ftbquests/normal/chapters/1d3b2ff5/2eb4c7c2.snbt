@@ -1,0 +1,24 @@
+{
+	x: 5.5d,
+	y: -7.0d,
+	text: [
+		"Gives you the ability to teleport and when you are with low health it auto-teleports"
+	],
+	dependencies: [
+		"9cdb347c"
+	],
+	tasks: [{
+		uid: "7c833b1d",
+		type: "item",
+		items: [{
+			item: "inventorypets:enderman_pet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "6d7f1ae7",
+		type: "xp",
+		xp: 10
+	}]
+}

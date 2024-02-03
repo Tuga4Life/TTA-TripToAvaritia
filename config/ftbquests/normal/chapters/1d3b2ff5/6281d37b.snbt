@@ -1,0 +1,24 @@
+{
+	x: 3.5d,
+	y: 9.5d,
+	text: [
+		"This pet wards off creepers and gives you night vision"
+	],
+	dependencies: [
+		"9cdb347c"
+	],
+	tasks: [{
+		uid: "76062b6f",
+		type: "item",
+		items: [{
+			item: "inventorypets:ocelot_pet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "8b46d0ca",
+		type: "xp",
+		xp: 10
+	}]
+}

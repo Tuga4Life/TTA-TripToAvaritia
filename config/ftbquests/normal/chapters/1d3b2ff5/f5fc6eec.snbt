@@ -1,0 +1,24 @@
+{
+	x: -0.5d,
+	y: -4.0d,
+	text: [
+		"With this pet you can walk on lava and sink on lava and gives you fire resistance"
+	],
+	dependencies: [
+		"9cdb347c"
+	],
+	tasks: [{
+		uid: "7dab1df5",
+		type: "item",
+		items: [{
+			item: "inventorypets:magma_cube_pet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "c93f57d1",
+		type: "xp",
+		xp: 10
+	}]
+}

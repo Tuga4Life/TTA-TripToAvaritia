@@ -1,0 +1,27 @@
+{
+	x: -10.5d,
+	y: -1.5d,
+	text: [
+		"This pet gives you wall climb and jump boost and you can hang on walls"
+	],
+	dependencies: [
+		"9cdb347c"
+	],
+	tasks: [{
+		uid: "6c6ab6cd",
+		type: "item",
+		items: [{
+			id: "inventorypets:spider_pet",
+			tag: {
+				GiveItems: 1b
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "6feab100",
+		type: "xp",
+		xp: 10
+	}]
+}

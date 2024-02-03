@@ -1,0 +1,22 @@
+{
+	title: "Mythological creatures",
+	icon: "inventorypets:meta_pet",
+	x: 0.0d,
+	y: 0.0d,
+	shape: "heart",
+	text: [
+		"In this world there are several creatures imprisoned for centuries. Because they had powers given by a deity, they were imprisoned in objects by the Avaritia Warriors in order to be used by them.",
+		"As there is not much information about this, they were titled Pets. These pets can help you in battles and in your day to day",
+		""
+	],
+	size: 3.0d,
+	tasks: [{
+		uid: "b099e567",
+		type: "checkmark"
+	}],
+	rewards: [{
+		uid: "e9423498",
+		type: "xp",
+		xp: 10
+	}]
+}

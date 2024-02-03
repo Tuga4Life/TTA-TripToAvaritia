@@ -1,0 +1,22 @@
+{
+	x: -7.0d,
+	y: 6.5d,
+	description: "A portable bed",
+	dependencies: [
+		"9cdb347c"
+	],
+	tasks: [{
+		uid: "e9647fa7",
+		type: "item",
+		items: [{
+			item: "inventorypets:bed_pet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "2fd27ba2",
+		type: "xp",
+		xp: 10
+	}]
+}

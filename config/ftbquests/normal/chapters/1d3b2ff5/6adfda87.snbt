@@ -1,0 +1,22 @@
+{
+	x: -4.5d,
+	y: -7.5d,
+	description: "I think the name says it all",
+	dependencies: [
+		"9cdb347c"
+	],
+	tasks: [{
+		uid: "f58b7144",
+		type: "item",
+		items: [{
+			item: "inventorypets:enchanting_table_pet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "b48c0c31",
+		type: "xp",
+		xp: 10
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 3.0d,
+	y: -1.5d,
+	tasks: [{
+		uid: "8c2ca5dc",
+		type: "item",
+		items: [{
+			item: "enderio:item_soul_vial"
+		}]
+	}],
+	rewards: [{
+		uid: "a61d4566",
+		type: "xp",
+		xp: 10
+	}]
+}

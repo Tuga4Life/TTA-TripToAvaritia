@@ -1,0 +1,61 @@
+{
+	title: "PARTYY",
+	loot_size: 1,
+	rewards: [{
+		item: "travelersbackpack:travelers_backpack 1 14"
+	},
+	{
+		item: "travelersbackpack:travelers_backpack 1 31"
+	},
+	{
+		item: "travelersbackpack:travelers_backpack 1 49"
+	},
+	{
+		item: "travelersbackpack:travelers_backpack 1 50"
+	},
+	{
+		item: "travelersbackpack:travelers_backpack 1 3"
+	},
+	{
+		item: "travelersbackpack:travelers_backpack 1 21"
+	},
+	{
+		item: "travelersbackpack:travelers_backpack 1 38"
+	},
+	{
+		item: "travelersbackpack:travelers_backpack 1 52"
+	},
+	{
+		item: "travelersbackpack:travelers_backpack 1 40"
+	},
+	{
+		item: "travelersbackpack:travelers_backpack 1 17"
+	},
+	{
+		item: "travelersbackpack:travelers_backpack 1 36"
+	},
+	{
+		item: "travelersbackpack:travelers_backpack 1 55"
+	},
+	{
+		item: "travelersbackpack:travelers_backpack 1 39"
+	},
+	{
+		item: "travelersbackpack:travelers_backpack 1 16"
+	},
+	{
+		item: "travelersbackpack:travelers_backpack 1 32"
+	},
+	{
+		item: "travelersbackpack:travelers_backpack 1 74"
+	},
+	{
+		item: "travelersbackpack:travelers_backpack 1 72"
+	},
+	{
+		item: "travelersbackpack:travelers_backpack 1 57"
+	},
+	{
+		item: "travelersbackpack:travelers_backpack 1 12"
+	}]
+}

@@ -1,0 +1,96 @@
+{
+	title: "A truly GOD",
+	icon: "inventorypets:illuminati_pet",
+	x: 0.5d,
+	y: -11.5d,
+	shape: "hexagon",
+	description: "With great power comes Great responsibility",
+	hide_dependency_lines: true,
+	dependencies: [
+		"252562a5",
+		"ed06ed86",
+		"ba790c7b",
+		"5d81e902",
+		"079d1f18",
+		"74fcf07a",
+		"ddcf1e47",
+		"1b7c47f0",
+		"8daa8ca7",
+		"f5fc6eec",
+		"7bc632d4",
+		"2ac2d7d1",
+		"320ea01d",
+		"f13b412d",
+		"3b9b1e80",
+		"dc878e9a",
+		"f7495056",
+		"a59639b0",
+		"94e5034c",
+		"7d79ec52",
+		"82245b8b",
+		"1df3c9dc",
+		"ccfbf9d4",
+		"22b35c07",
+		"5e74b043",
+		"e5d596ec",
+		"5ceda854",
+		"132f8f93",
+		"81819ebf",
+		"869510d4",
+		"75ee72a8",
+		"d8a62268",
+		"edfa3134",
+		"e3979a47",
+		"34c6eb15",
+		"56b41763",
+		"467f9228",
+		"6adfda87",
+		"57469b1e",
+		"bc587880",
+		"ab9beb40",
+		"eea5647a",
+		"d6c1da21",
+		"11c3a6a3",
+		"9176a814",
+		"c05eecba",
+		"18632404",
+		"bf576127",
+		"5696e2e5",
+		"0af54681",
+		"2eb4c7c2",
+		"dbeafb9c",
+		"c4a0d6d6",
+		"6281d37b",
+		"3fa9a8d2",
+		"dcb334ce",
+		"ed97396a"
+	],
+	hide: true,
+	size: 3.0d,
+	tasks: [{
+		uid: "7524591e",
+		type: "checkmark"
+	}],
+	rewards: [{
+		uid: "a50d6886",
+		type: "item",
+		item: {
+			id: "mekanism:basicblock2",
+			tag: {
+				tier: 3
+			},
+			Damage: 3s
+		}
+	},
+	{
+		uid: "11b5b474",
+		type: "item",
+		item: {
+			id: "mekanism:basicblock2",
+			tag: {
+				tier: 3
+			},
+			Damage: 4s
+		}
+	}]
+}

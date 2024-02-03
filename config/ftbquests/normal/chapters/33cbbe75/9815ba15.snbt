@@ -1,0 +1,209 @@
+{
+	title: "The survival pack",
+	icon: "avaritia:resource 1 5",
+	x: 2.0d,
+	y: 0.0d,
+	text: [
+		"This backpack will help you progress"
+	],
+	dependencies: [
+		"0a35dc7b"
+	],
+	tasks: [{
+		uid: "482941ab",
+		type: "checkmark"
+	}],
+	rewards: [{
+		uid: "c31ae609",
+		type: "item",
+		item: {
+			id: "thermalexpansion:satchel",
+			tag: {
+				RepairCost: 0,
+				display: {
+					Name: "Explorer's Backpack"
+				},
+				Inventory: {
+					Slot2: {
+						id: "minecraft:bread",
+						Count: 16b,
+						Damage: 0s
+					},
+					Slot3: {
+						id: "minecraft:paper",
+						Count: 1b,
+						tag: {
+							RepairCost: 0,
+							display: {
+								Name: "Ready for the Trip?"
+							}
+						},
+						Damage: 0s
+					},
+					Slot4: {
+						id: "akashictome:tome",
+						Count: 1b,
+						tag: {
+							RepairCost: 0,
+							display: {
+								Name: "Guide"
+							},
+							"akashictome:data": {
+								extendedcrafting: {
+									id: "extendedcrafting:guide",
+									Count: 1b,
+									tag: {
+										TopicsPage: 0,
+										"akashictome:definedMod": "extendedcrafting",
+										EntryId: -1,
+										EntryPage: 0
+									},
+									Damage: 0s
+								},
+								tconstruct: {
+									id: "tconstruct:book",
+									Count: 1b,
+									tag: {
+										"akashictome:definedMod": "tconstruct"
+									},
+									Damage: 0s
+								},
+								draconicevolution: {
+									id: "draconicevolution:info_tablet",
+									Count: 1b,
+									tag: {
+										"akashictome:definedMod": "draconicevolution"
+									},
+									Damage: 0s
+								},
+								theoneprobe: {
+									id: "theoneprobe:probenote",
+									Count: 1b,
+									tag: {
+										"akashictome:definedMod": "theoneprobe"
+									},
+									Damage: 0s
+								},
+								projecte: {
+									id: "projecte:item.pe_manual",
+									Count: 1b,
+									tag: {
+										"akashictome:definedMod": "projecte"
+									},
+									Damage: 0s
+								},
+								bloodmagic: {
+									id: "guideapi:bloodmagic-guide",
+									Count: 1b,
+									tag: {
+										"akashictome:definedMod": "bloodmagic",
+										G-API_Category_Page: 0
+									},
+									Damage: 0s
+								},
+								actuallyadditions: {
+									id: "actuallyadditions:item_booklet",
+									Count: 1b,
+									tag: {
+										"akashictome:definedMod": "actuallyadditions"
+									},
+									Damage: 0s
+								},
+								cfm: {
+									id: "cfm:item_recipe_book",
+									Count: 1b,
+									tag: {
+										"akashictome:definedMod": "cfm"
+									},
+									Damage: 0s
+								},
+								rftools: {
+									id: "rftools:rftools_shape_manual",
+									Count: 1b,
+									tag: {
+										"akashictome:definedMod": "rftools"
+									},
+									Damage: 0s
+								},
+								bigreactors: {
+									id: "patchouli:guide_book",
+									Count: 1b,
+									tag: {
+										"akashictome:definedMod": "bigreactors",
+										"patchouli:book": "bigreactors:erguide"
+									},
+									Damage: 0s
+								},
+								rftools1: {
+									id: "rftools:rftools_manual",
+									Count: 1b,
+									tag: {
+										"akashictome:definedMod": "rftools1"
+									},
+									Damage: 0s
+								}
+							}
+						},
+						Damage: 0s
+					},
+					Slot5: {
+						id: "appliedenergistics2:material",
+						Count: 1b,
+						Damage: 15s
+					},
+					Slot0: {
+						id: "minecraft:golden_axe",
+						Count: 1b,
+						tag: {
+							ench: [{
+								lvl: 2s,
+								id: 32s
+							},
+							{
+								lvl: 2s,
+								id: 34s
+							}],
+							RepairCost: 31,
+							display: {
+								Name: "Creative?!"
+							}
+						},
+						Damage: 0s
+					},
+					Slot1: {
+						id: "openblocks:technicolor_glasses",
+						Count: 1b,
+						tag: {
+							ench: [{
+								lvl: 2s,
+								id: 34s
+							},
+							{
+								lvl: 1s,
+								id: 0s
+							}],
+							RepairCost: 3
+						},
+						Damage: 0s
+					},
+					Slot6: {
+						id: "appliedenergistics2:material",
+						Count: 1b,
+						Damage: 14s
+					},
+					Slot7: {
+						id: "appliedenergistics2:material",
+						Count: 1b,
+						Damage: 19s
+					},
+					Slot8: {
+						id: "appliedenergistics2:material",
+						Count: 1b,
+						Damage: 13s
+					}
+				},
+				Accessible: 1b
+			}
+		}
+	}]
+}

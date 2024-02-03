@@ -1,0 +1,24 @@
+{
+	x: 10.5d,
+	y: -5.0d,
+	text: [
+		"Now you have the ability to shoot fire balls"
+	],
+	dependencies: [
+		"9cdb347c"
+	],
+	tasks: [{
+		uid: "e1868a0b",
+		type: "item",
+		items: [{
+			item: "inventorypets:ghast_pet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "4bd3b4a5",
+		type: "xp",
+		xp: 10
+	}]
+}

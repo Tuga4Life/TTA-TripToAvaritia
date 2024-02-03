@@ -1,0 +1,27 @@
+{
+	x: -8.5d,
+	y: -8.0d,
+	text: [
+		"This pet gives you damage absortion and poppy"
+	],
+	dependencies: [
+		"9cdb347c"
+	],
+	tasks: [{
+		uid: "3796921b",
+		type: "item",
+		items: [{
+			id: "inventorypets:iron_golem_pet",
+			tag: {
+				GiveItems: 1b
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "b6f28c25",
+		type: "xp",
+		xp: 10
+	}]
+}

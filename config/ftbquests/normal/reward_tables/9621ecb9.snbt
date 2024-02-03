@@ -1,0 +1,31 @@
+{
+	title: "Nether",
+	loot_size: 10,
+	rewards: [{
+		item: "minecraft:blaze_powder",
+		count: 5
+	},
+	{
+		item: "inventorypets:nether_portal_pet"
+	},
+	{
+		item: "minecraft:quartz",
+		count: 32
+	},
+	{
+		item: "minecraft:nether_wart",
+		count: 5
+	},
+	{
+		item: "appliedenergistics2:nether_quartz_sword"
+	},
+	{
+		item: "travelersbackpack:travelers_backpack 1 51"
+	},
+	{
+		item: "travelersbackpack:travelers_backpack 1 37"
+	},
+	{
+		item: "travelersbackpack:travelers_backpack 1 56"
+	}]
+}

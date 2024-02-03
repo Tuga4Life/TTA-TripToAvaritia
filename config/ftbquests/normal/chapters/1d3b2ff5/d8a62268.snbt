@@ -1,0 +1,22 @@
+{
+	x: 6.5d,
+	y: 2.5d,
+	description: "This is not a pet",
+	dependencies: [
+		"9cdb347c"
+	],
+	tasks: [{
+		uid: "9fa47a9f",
+		type: "item",
+		items: [{
+			item: "inventorypets:april_fool_pet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "136847d5",
+		type: "xp",
+		xp: 10
+	}]
+}

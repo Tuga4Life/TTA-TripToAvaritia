@@ -1,0 +1,18 @@
+{
+	title: "Ender Power",
+	icon: "enderio:block_enderman_skull 1 2",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: "rsquare",
+	images: [{
+		x: 5.5d,
+		y: 5.0d,
+		width: 0.5d,
+		height: 0.5d,
+		rotation: 0.0d,
+		image: "assets:meu projeto.png",
+		hover: [],
+		click: "",
+		dev: false
+	}]
+}

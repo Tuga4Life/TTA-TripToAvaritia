@@ -1,0 +1,40 @@
+{
+	x: 2.0d,
+	y: 1.5d,
+	text: [
+		"Muscles and intelligence...",
+		"...hmmm...",
+		"...good combination don't you think?!"
+	],
+	dependencies: [
+		"34f72ad1"
+	],
+	tasks: [{
+		uid: "2f4ddb82",
+		type: "item",
+		items: [{
+			id: "roost:chicken",
+			tag: {
+				Growth: 1,
+				Chicken: "chickens:smartchicken",
+				Gain: 1,
+				Strength: 1
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "af8a08fa",
+		type: "item",
+		item: {
+			id: "inventorypets:iron_golem_pet",
+			tag: {
+				GiveItems: 1b
+			}
+		}
+	},
+	{
+		uid: "87557e6f",
+		type: "xp",
+		xp: 10
+	}]
+}

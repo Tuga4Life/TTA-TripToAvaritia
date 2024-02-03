@@ -1,0 +1,22 @@
+{
+	x: -10.0d,
+	y: -3.5d,
+	description: "I think the name says it all",
+	dependencies: [
+		"9cdb347c"
+	],
+	tasks: [{
+		uid: "b0c938d9",
+		type: "item",
+		items: [{
+			item: "inventorypets:nether_portal_pet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "201b0c47",
+		type: "xp",
+		xp: 10
+	}]
+}

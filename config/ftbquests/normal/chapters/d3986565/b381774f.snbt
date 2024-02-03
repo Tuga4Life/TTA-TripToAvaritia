@@ -1,0 +1,50 @@
+{
+	title: "Red Armor",
+	x: 4.5d,
+	y: 1.5d,
+	dependencies: [
+		"b2fb62cf",
+		"02440cf5"
+	],
+	tasks: [{
+		uid: "405e3e66",
+		type: "item",
+		items: [{
+			item: "projecte:item.pe_rm_armor_3"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "e007f1f8",
+		type: "item",
+		items: [{
+			item: "projecte:item.pe_rm_armor_2"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "9e7fcc3d",
+		type: "item",
+		items: [{
+			item: "projecte:item.pe_rm_armor_1"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "a9e3d8d3",
+		type: "item",
+		items: [{
+			item: "projecte:item.pe_rm_armor_0"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "68d00dee",
+		type: "xp",
+		xp: 10
+	}]
+}

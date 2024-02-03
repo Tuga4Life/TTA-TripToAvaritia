@@ -1,0 +1,27 @@
+{
+	x: 7.5d,
+	y: 1.0d,
+	text: [
+		"Gives you Bonus hunger saturation and porkchops and can eat poisoned foods"
+	],
+	dependencies: [
+		"9cdb347c"
+	],
+	tasks: [{
+		uid: "d5bbeef4",
+		type: "item",
+		items: [{
+			id: "inventorypets:pig_pet",
+			tag: {
+				GiveItems: 1b
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "9788b7c4",
+		type: "xp",
+		xp: 10
+	}]
+}

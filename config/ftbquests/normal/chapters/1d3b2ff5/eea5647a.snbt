@@ -1,0 +1,24 @@
+{
+	x: 3.5d,
+	y: 6.5d,
+	text: [
+		"This pet gives you resistance"
+	],
+	dependencies: [
+		"9cdb347c"
+	],
+	tasks: [{
+		uid: "b1cee432",
+		type: "item",
+		items: [{
+			item: "inventorypets:shield_pet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "0858c939",
+		type: "xp",
+		xp: 10
+	}]
+}
