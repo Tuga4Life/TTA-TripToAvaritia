@@ -23,5 +23,10 @@
 			id: "projecte:item.pe_time_watch",
 			tag: {}
 		}
+	},
+	{
+		uid: "e9a4acb6",
+		type: "xp",
+		xp: 100
 	}]
 }

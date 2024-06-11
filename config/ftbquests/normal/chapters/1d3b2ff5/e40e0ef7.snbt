@@ -92,5 +92,18 @@
 			},
 			Damage: 4s
 		}
+	},
+	{
+		uid: "6a5d5469",
+		type: "item",
+		item: {
+			id: "projecte:item.pe_time_watch",
+			tag: {}
+		}
+	},
+	{
+		uid: "238d2872",
+		type: "item",
+		item: "projecte:dm_pedestal"
 	}]
 }

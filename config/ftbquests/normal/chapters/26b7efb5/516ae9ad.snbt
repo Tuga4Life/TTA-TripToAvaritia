@@ -3,9 +3,7 @@
 	x: 6.0d,
 	y: 1.5d,
 	text: [
-		"It was hard to get here, but it's over!",
-		"That's what you thought, isn't it?",
-		"Because there is still a big challenge, to complete it you need to improve all the chickens and put them 10/10/10"
+		"It was hard to get here, but it's over!"
 	],
 	dependencies: [
 		"472737fa"

@@ -45,5 +45,18 @@
 		uid: "c20ca0d9",
 		type: "item",
 		item: "draconicevolution:chaos_shard"
+	},
+	{
+		uid: "dd3c4b62",
+		type: "item",
+		item: {
+			id: "projecte:item.pe_time_watch",
+			tag: {}
+		}
+	},
+	{
+		uid: "6e8e8f97",
+		type: "item",
+		item: "projecte:dm_pedestal"
 	}]
 }

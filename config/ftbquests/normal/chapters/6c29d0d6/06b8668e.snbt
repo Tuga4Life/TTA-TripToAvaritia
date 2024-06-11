@@ -1,0 +1,38 @@
+{
+	title: "A new God",
+	icon: "minecraft:nether_star",
+	x: 27.0d,
+	y: 0.0d,
+	dependencies: [
+		"9f0bc9fa",
+		"46ffa756",
+		"ed7327a8",
+		"28bf546c",
+		"701f0843",
+		"0be12d0e"
+	],
+	hide: true,
+	size: 3.0d,
+	tasks: [{
+		uid: "1cc70b9d",
+		type: "checkmark"
+	}],
+	rewards: [{
+		uid: "b3f8054b",
+		type: "item",
+		item: {
+			id: "projecte:item.pe_time_watch",
+			tag: {}
+		}
+	},
+	{
+		uid: "f492b49a",
+		type: "item",
+		item: "projecte:dm_pedestal"
+	},
+	{
+		uid: "2229709f",
+		type: "xp_levels",
+		xp_levels: 100
+	}]
+}

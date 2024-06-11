@@ -111,5 +111,13 @@
 		uid: "277a32f5",
 		type: "item",
 		item: "botania:dice"
+	},
+	{
+		uid: "dd6b1013",
+		type: "item",
+		item: {
+			id: "projecte:item.pe_time_watch",
+			tag: {}
+		}
 	}]
 }
