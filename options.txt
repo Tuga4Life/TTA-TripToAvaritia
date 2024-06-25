@@ -51,7 +51,7 @@ realmsNotifications:true
 enableWeakAttacks:false
 autoJump:true
 narrator:0
-tutorialStep:movement
+tutorialStep:none
 key_key.attack:-100
 key_key.use:-99
 key_key.forward:17
@@ -114,7 +114,6 @@ key_quark.emote.jet:0
 key_quark.emote.exorcist:0
 key_quark.emote.zombie:0
 key_quark.keybind.toggleAutojump:48
-key_quark.keybind.lockBuilding:37
 key_quark.keybind.dropoff:0
 key_quark.keybind.changeHotbar:44
 key_quark.keybind.chestSort:0
@@ -123,6 +122,7 @@ key_quark.keybind.chestMerge:0
 key_quark.keybind.chestRestock:0
 key_quark.keybind.chestExtract:0
 key_quark.keybind.playerSort:0
+key_quark.keybind.lockBuilding:37
 key_key.toggle_shaders:0
 key_key.conarm.toggle_helm.desc:34
 key_key.conarm.toggle_chest.desc:35

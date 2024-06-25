@@ -9,7 +9,7 @@ customization-meta {
 }
 
 customization {
-  path = resources/assets/background.png
+  path = resources/assets/background.jpg
   action = texturizebackground
 }
 
@@ -21,16 +21,16 @@ customization {
 customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
   orientation = top-left
-  x = 393
+  x = 394
   action = movebutton
-  y = 372
+  y = 403
 }
 
 customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
   width = 151
   action = resizebutton
-  height = 99
+  height = 41
 }
 
 customization {
@@ -38,23 +38,23 @@ customization {
   loopbackgroundanimations = true
   restartbackgroundanimations = true
   action = setbuttontexture
-  backgroundhovered = resources/assets/teste2.png
-  backgroundnormal = resources/assets/teste2.png
+  backgroundhovered = resources/assets/rosalumi.png
+  backgroundnormal = resources/assets/rosa.png
 }
 
 customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
   orientation = top-left
-  x = 473
+  x = 472
   action = movebutton
-  y = 430
+  y = 460
 }
 
 customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
   width = 151
   action = resizebutton
-  height = 99
+  height = 41
 }
 
 customization {
@@ -62,8 +62,8 @@ customization {
   loopbackgroundanimations = true
   restartbackgroundanimations = true
   action = setbuttontexture
-  backgroundhovered = resources/assets/teste2.png
-  backgroundnormal = resources/assets/teste2.png
+  backgroundhovered = resources/assets/roxolumi.png
+  backgroundnormal = resources/assets/roxo.png
 }
 
 customization {
@@ -71,14 +71,14 @@ customization {
   orientation = top-left
   x = 548
   action = movebutton
-  y = 372
+  y = 403
 }
 
 customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
   width = 151
   action = resizebutton
-  height = 99
+  height = 41
 }
 
 customization {
@@ -86,8 +86,8 @@ customization {
   loopbackgroundanimations = true
   restartbackgroundanimations = true
   action = setbuttontexture
-  backgroundhovered = resources/assets/teste2.png
-  backgroundnormal = resources/assets/teste2.png
+  backgroundhovered = resources/assets/vermelholumi.png
+  backgroundnormal = resources/assets/vermelho.png
 }
 
 customization {
@@ -98,16 +98,16 @@ customization {
 customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
   orientation = top-left
-  x = 238
+  x = 239
   action = movebutton
-  y = 372
+  y = 403
 }
 
 customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
   width = 151
   action = resizebutton
-  height = 99
+  height = 41
 }
 
 customization {
@@ -115,23 +115,23 @@ customization {
   loopbackgroundanimations = true
   restartbackgroundanimations = true
   action = setbuttontexture
-  backgroundhovered = resources/assets/teste2.png
-  backgroundnormal = resources/assets/teste2.png
+  backgroundhovered = resources/assets/azullumi.png
+  backgroundnormal = resources/assets/azul.png
 }
 
 customization {
   identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
   orientation = top-left
-  x = 318
+  x = 317
   action = movebutton
-  y = 430
+  y = 460
 }
 
 customization {
   identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
   width = 151
   action = resizebutton
-  height = 99
+  height = 41
 }
 
 customization {
@@ -139,8 +139,8 @@ customization {
   loopbackgroundanimations = true
   restartbackgroundanimations = true
   action = setbuttontexture
-  backgroundhovered = resources/assets/teste2.png
-  backgroundnormal = resources/assets/teste2.png
+  backgroundhovered = resources/assets/verdelumi.png
+  backgroundnormal = resources/assets/verdwe.png
 }
 
 customization {
