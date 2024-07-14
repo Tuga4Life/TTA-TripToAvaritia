@@ -1,6 +1,6 @@
 {
 	x: 0.5d,
-	y: -6.0d,
+	y: -3.5d,
 	text: [
 		"This pet restore your items after your death"
 	],

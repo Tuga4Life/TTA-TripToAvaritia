@@ -6,6 +6,11 @@
 	text: [
 		"In this mission you will have to face many dangers and challenges to unravel the secrets of the Avaritia Warriors"
 	],
+	dependencies: [
+		"111bf983",
+		"cc10f094",
+		"42a3474c"
+	],
 	tasks: [{
 		uid: "f9f3601a",
 		type: "checkmark"

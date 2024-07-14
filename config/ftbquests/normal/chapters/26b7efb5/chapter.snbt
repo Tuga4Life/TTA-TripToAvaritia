@@ -8,5 +8,16 @@
 	},
 	always_invisible: false,
 	group: 0,
-	default_quest_shape: "rsquare"
+	default_quest_shape: "rsquare",
+	images: [{
+		x: 0.0d,
+		y: -7.0d,
+		width: 15.0d,
+		height: 3.0d,
+		rotation: 0.0d,
+		image: "assets:chickenera.png",
+		hover: [],
+		click: "",
+		dev: false
+	}]
 }

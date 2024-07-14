@@ -1,0 +1,19 @@
+{
+	x: -2.0d,
+	y: -1.5d,
+	text: [
+		"If you find bugs and problems that need to be resolved, use the issues page, which you can find on the modpack page on Curse Forge.",
+		"",
+		"Do not use the comments on the Curse Forge modpack page to report these issues."
+	],
+	tasks: [{
+		uid: "8b5e0e15",
+		type: "checkmark",
+		title: "GitHub"
+	}],
+	rewards: [{
+		uid: "1cf65d0e",
+		type: "xp",
+		xp: 10
+	}]
+}

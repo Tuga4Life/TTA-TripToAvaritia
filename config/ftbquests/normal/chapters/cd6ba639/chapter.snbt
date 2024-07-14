@@ -16,5 +16,16 @@
 		],
 		click: "",
 		dev: false
+	},
+	{
+		x: 11.0d,
+		y: -2.5d,
+		width: 21.0d,
+		height: 3.0d,
+		rotation: 0.0d,
+		image: "assets:dragonpower.png",
+		hover: [],
+		click: "",
+		dev: false
 	}]
 }

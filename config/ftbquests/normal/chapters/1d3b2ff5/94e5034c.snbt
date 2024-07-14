@@ -1,6 +1,6 @@
 {
 	x: 0.5d,
-	y: -2.5d,
+	y: -2.0d,
 	text: [
 		"This pet gives you wings for your mounts"
 	],

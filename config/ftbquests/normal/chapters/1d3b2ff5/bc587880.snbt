@@ -1,6 +1,6 @@
 {
 	x: 1.5d,
-	y: -4.0d,
+	y: -3.0d,
 	text: [
 		"This pet gives you immune to Wither Effect, all the damage dealt heals you and the ability to shoot Wither Skull"
 	],

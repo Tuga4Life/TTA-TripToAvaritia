@@ -16,5 +16,16 @@
 		],
 		click: "",
 		dev: false
+	},
+	{
+		x: -15.0d,
+		y: -7.0d,
+		width: 15.0d,
+		height: 3.0d,
+		rotation: 0.0d,
+		image: "assets:enderpower.png",
+		hover: [],
+		click: "",
+		dev: false
 	}]
 }

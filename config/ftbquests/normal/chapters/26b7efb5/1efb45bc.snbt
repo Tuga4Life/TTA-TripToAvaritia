@@ -1,7 +1,7 @@
 {
 	title: "Rainbow fest!!",
-	x: 3.5d,
-	y: 0.0d,
+	x: -6.0d,
+	y: 2.0d,
 	text: [
 		"Enjoy the party!!"
 	],

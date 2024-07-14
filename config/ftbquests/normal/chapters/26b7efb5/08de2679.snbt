@@ -1,7 +1,7 @@
 {
 	title: "Overworld",
-	x: 2.0d,
-	y: 0.0d,
+	x: -4.5d,
+	y: 2.0d,
 	dependencies: [
 		"34f72ad1"
 	],

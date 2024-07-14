@@ -3,5 +3,16 @@
 	icon: "avaritia:resource 1 5",
 	always_invisible: false,
 	group: 0,
-	default_quest_shape: "rsquare"
+	default_quest_shape: "rsquare",
+	images: [{
+		x: 13.5d,
+		y: 4.0d,
+		width: 18.0d,
+		height: 3.0d,
+		rotation: 0.0d,
+		image: "assets:avaritia2.png",
+		hover: [],
+		click: "",
+		dev: false
+	}]
 }

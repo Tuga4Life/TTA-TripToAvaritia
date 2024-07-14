@@ -1,0 +1,17 @@
+{
+	x: -2.0d,
+	y: 0.0d,
+	text: [
+		"Comment in the comments section of the Curse Forge modpack page.I would like to know what you think of Trip To Avaritia."
+	],
+	tasks: [{
+		uid: "4f891e4e",
+		type: "checkmark",
+		title: "Comment"
+	}],
+	rewards: [{
+		uid: "bff85e59",
+		type: "xp",
+		xp: 10
+	}]
+}

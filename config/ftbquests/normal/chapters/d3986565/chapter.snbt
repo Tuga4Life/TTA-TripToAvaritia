@@ -16,5 +16,16 @@
 		],
 		click: "",
 		dev: false
+	},
+	{
+		x: 0.5d,
+		y: -6.5d,
+		width: 23.0d,
+		height: 3.0d,
+		rotation: 0.0d,
+		image: "assets:powerofalchemism.png",
+		hover: [],
+		click: "",
+		dev: false
 	}]
 }

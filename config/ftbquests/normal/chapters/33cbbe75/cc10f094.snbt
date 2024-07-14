@@ -1,0 +1,19 @@
+{
+	x: -2.0d,
+	y: 1.5d,
+	text: [
+		"These modpacks take a long time to make and if you could by me a coffee I would be grateful.",
+		"",
+		"To buy me a coffee click on the donation button on the modpack website in curse forge."
+	],
+	tasks: [{
+		uid: "dfcf258d",
+		type: "checkmark",
+		title: "By me a coffe"
+	}],
+	rewards: [{
+		uid: "50e19bea",
+		type: "xp",
+		xp: 10
+	}]
+}
