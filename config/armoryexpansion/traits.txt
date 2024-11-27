@@ -13,6 +13,7 @@
   "hellish",
   "cheapskate",
   "superhot_armor",
+  "slimey_pink",
   "heavy",
   "cheap_armor",
   "autoforge_armor",

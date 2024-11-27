@@ -1,8 +1,8 @@
 {
 	title: "Ore duplication and powders",
 	icon: "appliedenergistics2:grindstone",
-	x: 0.0d,
-	y: -3.0d,
+	x: 0.5d,
+	y: -2.0d,
 	text: [
 		"Grindstone can be used to duplicate ores and make powders"
 	],

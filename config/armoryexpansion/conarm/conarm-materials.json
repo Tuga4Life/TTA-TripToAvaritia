@@ -45,6 +45,28 @@
   },
   {
     "coreMaterialStats": {
+      "durability": 120.0,
+      "defense": 29.25,
+      "materialType": "core"
+    },
+    "platesMaterialStats": {
+      "durability": 22.4,
+      "modifier": 50.0,
+      "toughness": 0.0,
+      "materialType": "plates"
+    },
+    "trimMaterialStats": {
+      "extraDurability": 22.4,
+      "materialType": "trim"
+    },
+    "identifier": "integrationforegoing.reinforced_pink_slime",
+    "color": -4032074,
+    "type": "METAL",
+    "castable": false,
+    "craftable": true
+  },
+  {
+    "coreMaterialStats": {
       "durability": 14.0,
       "defense": 10.125,
       "materialType": "core"
@@ -221,6 +243,28 @@
   },
   {
     "coreMaterialStats": {
+      "durability": 56.0,
+      "defense": 0.0,
+      "materialType": "core"
+    },
+    "platesMaterialStats": {
+      "durability": 11.2,
+      "modifier": 2.117647,
+      "toughness": 0.0,
+      "materialType": "plates"
+    },
+    "trimMaterialStats": {
+      "extraDurability": 11.2,
+      "materialType": "trim"
+    },
+    "identifier": "integrationforegoing.plastic",
+    "color": -5395027,
+    "type": "METAL",
+    "castable": false,
+    "craftable": true
+  },
+  {
+    "coreMaterialStats": {
       "durability": 1.0,
       "defense": 9.0,
       "materialType": "core"
@@ -306,5 +350,27 @@
     "type": "METAL",
     "castable": true,
     "craftable": false
+  },
+  {
+    "coreMaterialStats": {
+      "durability": 75.0,
+      "defense": 18.0,
+      "materialType": "core"
+    },
+    "platesMaterialStats": {
+      "durability": 16.8,
+      "modifier": 38.117645,
+      "toughness": 0.0,
+      "materialType": "plates"
+    },
+    "trimMaterialStats": {
+      "extraDurability": 16.8,
+      "materialType": "trim"
+    },
+    "identifier": "integrationforegoing.pink_slime",
+    "color": -807226,
+    "type": "METAL",
+    "castable": false,
+    "craftable": true
   }
 ]

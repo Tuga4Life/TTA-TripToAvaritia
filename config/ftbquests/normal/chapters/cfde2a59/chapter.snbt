@@ -6,7 +6,7 @@
 	default_quest_shape: "rsquare",
 	images: [{
 		x: 4.5d,
-		y: -7.0d,
+		y: -6.0d,
 		width: 20.0d,
 		height: 3.0d,
 		rotation: 0.0d,
